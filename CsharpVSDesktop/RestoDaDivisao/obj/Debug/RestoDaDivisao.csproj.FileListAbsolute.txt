@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.frmRestoDivisao.resources
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+C:\Users\Admin\Documents\Git\Csharp\Estudos\CsharpVSDesktop\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\gasto_restaurante\bin\Debug\gasto_restaurante.exe.config
+C:\Users\Admin\source\repos\gasto_restaurante\bin\Debug\gasto_restaurante.exe
+C:\Users\Admin\source\repos\gasto_restaurante\bin\Debug\gasto_restaurante.pdb
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.Properties.Resources.resources
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.exe
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.pdb
+C:\Users\Admin\source\repos\gasto_restaurante\obj\Debug\gasto_restaurante.frmCalculo.resources

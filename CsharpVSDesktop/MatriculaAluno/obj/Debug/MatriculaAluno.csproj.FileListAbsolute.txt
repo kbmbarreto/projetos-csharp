@@ -1,0 +1,10 @@
+D:\Users\klebe\source\repos\MatriculaAluno\bin\Debug\MatriculaAluno.exe.config
+D:\Users\klebe\source\repos\MatriculaAluno\bin\Debug\MatriculaAluno.exe
+D:\Users\klebe\source\repos\MatriculaAluno\bin\Debug\MatriculaAluno.pdb
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.csprojAssemblyReference.cache
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.frmMatriculaAluno.resources
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.Properties.Resources.resources
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.csproj.GenerateResource.cache
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.csproj.CoreCompileInputs.cache
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.exe
+D:\Users\klebe\source\repos\MatriculaAluno\obj\Debug\MatriculaAluno.pdb
