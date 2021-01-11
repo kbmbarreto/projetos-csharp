@@ -1,0 +1,6 @@
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\VariaveisTexto\bin\Debug\VariaveisTexto.exe.config
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\VariaveisTexto\bin\Debug\VariaveisTexto.exe
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\VariaveisTexto\bin\Debug\VariaveisTexto.pdb
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\VariaveisTexto\obj\Debug\VariaveisTexto.csprojAssemblyReference.cache
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\VariaveisTexto\obj\Debug\VariaveisTexto.exe
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\VariaveisTexto\obj\Debug\VariaveisTexto.pdb

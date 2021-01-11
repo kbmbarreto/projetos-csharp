@@ -1,0 +1,6 @@
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TabuadaRepeticao\TabuadaRepeticao\bin\Debug\TabuadaRepeticao.exe.config
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TabuadaRepeticao\TabuadaRepeticao\bin\Debug\TabuadaRepeticao.exe
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TabuadaRepeticao\TabuadaRepeticao\bin\Debug\TabuadaRepeticao.pdb
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.csprojAssemblyReference.cache
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.exe
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TabuadaRepeticao\TabuadaRepeticao\obj\Debug\TabuadaRepeticao.pdb

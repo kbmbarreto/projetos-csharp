@@ -1,0 +1,6 @@
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioFor\ExercicioFor\bin\Debug\ExercicioFor.exe.config
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioFor\ExercicioFor\bin\Debug\ExercicioFor.exe
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioFor\ExercicioFor\bin\Debug\ExercicioFor.pdb
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.csprojAssemblyReference.cache
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.exe
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.pdb

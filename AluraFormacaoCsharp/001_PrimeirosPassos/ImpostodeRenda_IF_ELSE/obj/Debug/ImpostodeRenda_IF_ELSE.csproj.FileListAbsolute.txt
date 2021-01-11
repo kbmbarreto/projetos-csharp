@@ -1,0 +1,6 @@
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ImpostodeRenda_IF_ELSE\obj\Debug\ImpostodeRenda_IF_ELSE.csprojAssemblyReference.cache
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ImpostodeRenda_IF_ELSE\bin\Debug\ImpostodeRenda_IF_ELSE.exe.config
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ImpostodeRenda_IF_ELSE\bin\Debug\ImpostodeRenda_IF_ELSE.exe
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ImpostodeRenda_IF_ELSE\bin\Debug\ImpostodeRenda_IF_ELSE.pdb
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ImpostodeRenda_IF_ELSE\obj\Debug\ImpostodeRenda_IF_ELSE.exe
+C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ImpostodeRenda_IF_ELSE\obj\Debug\ImpostodeRenda_IF_ELSE.pdb
