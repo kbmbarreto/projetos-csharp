@@ -1,0 +1,6 @@
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioForEncadeado\ExercicioForEncadeado\bin\Debug\ExercicioForEncadeado.exe.config
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioForEncadeado\ExercicioForEncadeado\bin\Debug\ExercicioForEncadeado.exe
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioForEncadeado\ExercicioForEncadeado\bin\Debug\ExercicioForEncadeado.pdb
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioForEncadeado\ExercicioForEncadeado\obj\Debug\ExercicioForEncadeado.csprojAssemblyReference.cache
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioForEncadeado\ExercicioForEncadeado\obj\Debug\ExercicioForEncadeado.exe
+C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\ExercicioForEncadeado\ExercicioForEncadeado\obj\Debug\ExercicioForEncadeado.pdb
