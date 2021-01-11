@@ -1,6 +1,0 @@
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\LacoDeRepeticaoFor\LacoDeRepeticaoFor\obj\Debug\LacoDeRepeticaoFor.csprojAssemblyReference.cache
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\LacoDeRepeticaoFor\LacoDeRepeticaoFor\bin\Debug\LacoDeRepeticaoFor.exe.config
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\LacoDeRepeticaoFor\LacoDeRepeticaoFor\bin\Debug\LacoDeRepeticaoFor.exe
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\LacoDeRepeticaoFor\LacoDeRepeticaoFor\bin\Debug\LacoDeRepeticaoFor.pdb
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\LacoDeRepeticaoFor\LacoDeRepeticaoFor\obj\Debug\LacoDeRepeticaoFor.exe
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\LacoDeRepeticaoFor\LacoDeRepeticaoFor\obj\Debug\LacoDeRepeticaoFor.pdb

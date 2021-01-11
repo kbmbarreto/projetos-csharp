@@ -1,6 +1,0 @@
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CondicionaisBooleana\bin\Debug\CondicionaisBooleana.exe.config
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CondicionaisBooleana\bin\Debug\CondicionaisBooleana.exe
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CondicionaisBooleana\bin\Debug\CondicionaisBooleana.pdb
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CondicionaisBooleana\obj\Debug\CondicionaisBooleana.csprojAssemblyReference.cache
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CondicionaisBooleana\obj\Debug\CondicionaisBooleana.exe
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CondicionaisBooleana\obj\Debug\CondicionaisBooleana.pdb

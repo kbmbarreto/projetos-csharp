@@ -1,6 +1,0 @@
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CalculaPoupanca\bin\Debug\CalculaPoupanca.exe.config
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CalculaPoupanca\bin\Debug\CalculaPoupanca.exe
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CalculaPoupanca\bin\Debug\CalculaPoupanca.pdb
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CalculaPoupanca\obj\Debug\CalculaPoupanca.csprojAssemblyReference.cache
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CalculaPoupanca\obj\Debug\CalculaPoupanca.exe
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\CalculaPoupanca\obj\Debug\CalculaPoupanca.pdb

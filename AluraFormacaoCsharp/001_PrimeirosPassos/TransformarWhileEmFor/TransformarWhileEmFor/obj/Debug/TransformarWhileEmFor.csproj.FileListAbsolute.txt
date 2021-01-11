@@ -1,6 +1,0 @@
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TransformarWhileEmFor\TransformarWhileEmFor\bin\Debug\TransformarWhileEmFor.exe.config
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TransformarWhileEmFor\TransformarWhileEmFor\bin\Debug\TransformarWhileEmFor.exe
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TransformarWhileEmFor\TransformarWhileEmFor\bin\Debug\TransformarWhileEmFor.pdb
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TransformarWhileEmFor\TransformarWhileEmFor\obj\Debug\TransformarWhileEmFor.csprojAssemblyReference.cache
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TransformarWhileEmFor\TransformarWhileEmFor\obj\Debug\TransformarWhileEmFor.exe
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\TransformarWhileEmFor\TransformarWhileEmFor\obj\Debug\TransformarWhileEmFor.pdb

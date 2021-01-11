@@ -1,6 +1,0 @@
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ExercicioWhile\bin\Debug\ExercicioWhile.exe.config
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ExercicioWhile\bin\Debug\ExercicioWhile.exe
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ExercicioWhile\bin\Debug\ExercicioWhile.pdb
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ExercicioWhile\obj\Debug\ExercicioWhile.csprojAssemblyReference.cache
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ExercicioWhile\obj\Debug\ExercicioWhile.exe
-C:\Users\klebe\Dropbox (Pessoal)\Arquivos\Scripts e códigos\PROJETOS\GitHub\csharp\Estudos\AluraFormacaoCsharp\Curso1_PrimeirosPassos\ExercicioWhile\obj\Debug\ExercicioWhile.pdb

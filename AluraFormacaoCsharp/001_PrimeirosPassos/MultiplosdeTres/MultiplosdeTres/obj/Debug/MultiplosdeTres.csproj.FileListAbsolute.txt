@@ -1,6 +1,0 @@
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\MultiplosdeTres\MultiplosdeTres\bin\Debug\MultiplosdeTres.exe.config
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\MultiplosdeTres\MultiplosdeTres\bin\Debug\MultiplosdeTres.exe
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\MultiplosdeTres\MultiplosdeTres\bin\Debug\MultiplosdeTres.pdb
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\MultiplosdeTres\MultiplosdeTres\obj\Debug\MultiplosdeTres.csprojAssemblyReference.cache
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\MultiplosdeTres\MultiplosdeTres\obj\Debug\MultiplosdeTres.exe
-C:\Users\kleber.barreto\Documents\Git\csharp\Estudos\AluraFormacaoCsharp\001_PrimeirosPassos\MultiplosdeTres\MultiplosdeTres\obj\Debug\MultiplosdeTres.pdb
