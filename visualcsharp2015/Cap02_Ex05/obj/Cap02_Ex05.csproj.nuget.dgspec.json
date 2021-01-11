@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\klebe\\Dropbox\\DOCUMENTOS\\Scripts e códigos\\PROJETOS\\Materiais de estudos\\visualcsharp2015\\Cap02_Ex05\\Cap02_Ex05.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\klebe\\Dropbox\\DOCUMENTOS\\Scripts e códigos\\PROJETOS\\Materiais de estudos\\visualcsharp2015\\Cap02_Ex05\\Cap02_Ex05.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\klebe\\Dropbox\\DOCUMENTOS\\Scripts e códigos\\PROJETOS\\Materiais de estudos\\visualcsharp2015\\Cap02_Ex05\\Cap02_Ex05.csproj",
+        "projectName": "Cap02_Ex05",
+        "projectPath": "C:\\Users\\klebe\\Dropbox\\DOCUMENTOS\\Scripts e códigos\\PROJETOS\\Materiais de estudos\\visualcsharp2015\\Cap02_Ex05\\Cap02_Ex05.csproj",
+        "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\klebe\\Dropbox\\DOCUMENTOS\\Scripts e códigos\\PROJETOS\\Materiais de estudos\\visualcsharp2015\\Cap02_Ex05\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\klebe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

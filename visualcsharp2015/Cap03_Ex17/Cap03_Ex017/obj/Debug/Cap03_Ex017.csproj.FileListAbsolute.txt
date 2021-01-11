@@ -1,0 +1,7 @@
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\bin\Debug\Cap03_Ex017.exe.config
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\bin\Debug\Cap03_Ex017.exe
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\bin\Debug\Cap03_Ex017.pdb
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\obj\Debug\Cap03_Ex017.csprojAssemblyReference.cache
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\obj\Debug\Cap03_Ex017.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\obj\Debug\Cap03_Ex017.exe
+C:\Users\klebe\Dropbox (Pessoal)\DOCUMENTOS\Scripts e códigos\PROJETOS\GitHub\csharp\visualcsharp2015\Cap03_Ex017\Cap03_Ex017\obj\Debug\Cap03_Ex017.pdb

@@ -1,0 +1,11 @@
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\bin\Debug\netcoreapp2.1\Cap02_Ex09.deps.json
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\bin\Debug\netcoreapp2.1\Cap02_Ex09.runtimeconfig.json
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\bin\Debug\netcoreapp2.1\Cap02_Ex09.runtimeconfig.dev.json
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\bin\Debug\netcoreapp2.1\Cap02_Ex09.dll
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\bin\Debug\netcoreapp2.1\Cap02_Ex09.pdb
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\obj\Debug\netcoreapp2.1\Cap02_Ex09.csprojAssemblyReference.cache
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\obj\Debug\netcoreapp2.1\Cap02_Ex09.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\obj\Debug\netcoreapp2.1\Cap02_Ex09.AssemblyInfoInputs.cache
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\obj\Debug\netcoreapp2.1\Cap02_Ex09.AssemblyInfo.cs
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\obj\Debug\netcoreapp2.1\Cap02_Ex09.dll
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex09\obj\Debug\netcoreapp2.1\Cap02_Ex09.pdb

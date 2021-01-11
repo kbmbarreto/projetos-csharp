@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Cap04_Ex07/1.0.0": {
+        "runtime": {
+          "Cap04_Ex07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap04_Ex07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

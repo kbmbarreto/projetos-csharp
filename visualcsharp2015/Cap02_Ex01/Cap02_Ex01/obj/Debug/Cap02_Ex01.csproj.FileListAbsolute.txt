@@ -1,0 +1,7 @@
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\bin\Debug\Cap02_Ex01.exe.config
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\bin\Debug\Cap02_Ex01.exe
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\bin\Debug\Cap02_Ex01.pdb
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\obj\Debug\Cap02_Ex01.csprojAssemblyReference.cache
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\obj\Debug\Cap02_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\obj\Debug\Cap02_Ex01.exe
+C:\Users\klebe\Dropbox\DOCUMENTOS\Scripts e códigos\PROJETOS\Materiais de estudos\visualcsharp2015\Cap02_Ex01\Cap02_Ex01\obj\Debug\Cap02_Ex01.pdb
